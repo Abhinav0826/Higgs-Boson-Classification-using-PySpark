@@ -66,4 +66,8 @@ The notebooks export the data files used in the Tableau dashboards.
   - `cost_analysis.csv`
 
 ## Tech Stack
-Python · PySpark (MLlib) · LIME · Tableau Public · Jupyter
+* Python
+* Jupyter
+* PySpark (MLlib)
+* LIME
+* Tableau Public 
